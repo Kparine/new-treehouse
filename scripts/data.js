@@ -29,6 +29,12 @@ const treehouses = [
     description: 'this one looks nice',
     contributor: 'jamie'
   }
+  {
+    title: 'Team Treehouse',
+    img: 'https://teamtreehouse.com/',
+    description: 'Lorem Ipsum',
+    contributor: 'Kevin'
+  }
 ]
 
 module.exports = {
